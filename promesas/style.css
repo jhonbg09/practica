@@ -1,0 +1,26 @@
+.contenedor{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.amarillo{
+    width: 150px;
+    height: 150px;
+    background: yellow;
+    margin: 5px;
+}
+
+.azul{
+    width: 150px;
+    height: 150px;
+    background: blue;
+    margin: 5px;
+}
+
+.rojo{
+    width: 150px;
+    height: 150px;
+    background: red;
+    margin: 5px;
+}
