@@ -1,0 +1,30 @@
+.contenedor {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.yellow {
+  background-color: yellow;
+  margin-top: 10px;
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+}
+
+.blue {
+  background-color: blue;
+  margin-top: 10px;
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+}
+
+.red {
+  background-color: red;
+  margin-top: 10px;
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+}
